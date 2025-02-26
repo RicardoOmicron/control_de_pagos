@@ -38,11 +38,11 @@ Este proyecto es una aplicación web para el control de pagos, desarrollada con 
    npm install
 ```
 ## Scripts Disponibles
-npm run dev: Inicia el servidor de desarrollo.
-npm run build: Construye la aplicación para producción.
-npm run lint: Ejecuta ESLint para analizar el código.
-npm run preview: Previsualiza la aplicación construida.
-npm run test: Ejecuta las pruebas con Vitest.
-npm run test:watch: Ejecuta las pruebas en modo watch.
+- **npm run dev**:  Inicia el servidor de desarrollo.
+- **npm run build**: Construye la aplicación para producción.
+- **npm run lint**: Ejecuta ESLint para analizar el código.
+- **npm run preview**: Previsualiza la aplicación construida.
+- **npm run test**: Ejecuta las pruebas con Vitest.
+- **npm run test:watch**: Ejecuta las pruebas en modo watch.
 
 
