@@ -37,7 +37,7 @@ Este proyecto es una aplicación web para el control de pagos, desarrollada con 
  ```sh
    npm install
 ```
-Scripts Disponibles
+## Scripts Disponibles
 npm run dev: Inicia el servidor de desarrollo.
 npm run build: Construye la aplicación para producción.
 npm run lint: Ejecuta ESLint para analizar el código.
