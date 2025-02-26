@@ -33,5 +33,3 @@ Este proyecto es una aplicación web para el control de pagos, desarrollada con 
  ```sh
    cd control_de_pagos
 
-
-
